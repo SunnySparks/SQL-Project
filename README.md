@@ -1,6 +1,6 @@
 # SQL-Project
 
--This project consists of the SQLzoo website's tutorials, and the quizzes of each section
+- This project consists of the SQLzoo website's tutorials, and the quizzes of each section
 
 
 # Repository Address
